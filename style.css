@@ -1,9 +1,12 @@
 html {
   font-size: 10px;
+  color: #FFFFFF
+  background-color: #949494;
 }
 
 .sidebar {
   font-size: 1.6rem;
+  height: 100%;
   width: 19rem;
   position: fixed;
   z-index: 1;
@@ -13,6 +16,15 @@ html {
   overflow: hidden;
 }
 
-.CV {
-  font-size: 1.5rem;
+main {
+  margin-left: 19rem;
+  padding: 0rem 1rem;
+  font-size: 1.6rem;
 }
+
+main h1 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+main h2

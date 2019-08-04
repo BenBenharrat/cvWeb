@@ -1,3 +1,18 @@
+html {
+  font-size: 10px;
+}
+
 .sidebar {
-    background-color: rgb(0, 18, 97)
+  font-size: 1.6rem;
+  width: 19rem;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #1e3f5a;
+  overflow: hidden;
+}
+
+.CV {
+  font-size: 1.5rem;
 }

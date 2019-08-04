@@ -1,6 +1,12 @@
+@font-face {
+  font-family: Abel;
+  src: url(/assets/abel_regular_macroman/abel-regular-webfont.woff)
+    format(.woff);
+}
+
 html {
   font-size: 10px;
-  color: #FFFFFF
+
   background-color: #949494;
 }
 
@@ -13,6 +19,7 @@ html {
   top: 0;
   left: 0;
   background-color: #1e3f5a;
+  color: #ffffff;
   overflow: hidden;
 }
 
@@ -25,6 +32,8 @@ main {
 main h1 {
   text-align: center;
   font-size: 3rem;
+  color: #ffffff;
 }
 
-main h2
+main h2 {
+}
